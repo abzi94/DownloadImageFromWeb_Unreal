@@ -1,9 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\Users\\abrai\\Documents\\Unreal Projects\\DownloadImageFromWeb\\Source\\DownloadImageFromWeb\\DownloadImageFromWeb.Build.cs",
-		"C:\\Users\\abrai\\Documents\\Unreal Projects\\DownloadImageFromWeb\\Plugins\\Electronic Nodes v.1.0 Unreal Engine\\Source\\ElectronicNodes\\ElectronicNodes.Build.cs",
-		"C:\\Users\\abrai\\Documents\\Unreal Projects\\DownloadImageFromWeb\\Source\\DownloadImageFromWeb.Target.cs",
-		"C:\\Users\\abrai\\Documents\\Unreal Projects\\DownloadImageFromWeb\\Source\\DownloadImageFromWebEditor.Target.cs"
-	],
-	"EngineVersion": "4.24.3"
-}

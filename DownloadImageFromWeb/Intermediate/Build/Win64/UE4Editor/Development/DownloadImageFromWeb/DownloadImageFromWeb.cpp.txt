@@ -1,2 +1,0 @@
-C:\Users\abrai\Documents\Unreal Projects\DownloadImageFromWeb\Intermediate\Build\Win64\UE4Editor\Development\DownloadImageFromWeb\Definitions.DownloadImageFromWeb.h
-c:\users\abrai\documents\unreal projects\downloadimagefromweb\source\downloadimagefromweb\DownloadImageFromWeb.h
